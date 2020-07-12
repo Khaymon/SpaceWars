@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpacePlane", "SpacePlane.csproj", "{B60EE5A3-605A-417C-A62F-60062F2041F6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SpacePlane", "SpacePlane", "{582DD09A-A9A9-4422-9E24-DF0C063CB11A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpacePlane", "SpacePlane\SpacePlane.csproj", "{04028AF9-1263-4585-9A8A-734B0913B6D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B60EE5A3-605A-417C-A62F-60062F2041F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B60EE5A3-605A-417C-A62F-60062F2041F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B60EE5A3-605A-417C-A62F-60062F2041F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B60EE5A3-605A-417C-A62F-60062F2041F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04028AF9-1263-4585-9A8A-734B0913B6D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04028AF9-1263-4585-9A8A-734B0913B6D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04028AF9-1263-4585-9A8A-734B0913B6D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04028AF9-1263-4585-9A8A-734B0913B6D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{04028AF9-1263-4585-9A8A-734B0913B6D1} = {582DD09A-A9A9-4422-9E24-DF0C063CB11A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C745BD6-896D-4B86-B6EB-23F3FE486857}
+	EndGlobalSection
+EndGlobal

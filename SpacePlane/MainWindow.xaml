@@ -1,0 +1,24 @@
+﻿<Window x:Class="SpacePlane.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SpacePlane"
+        mc:Ignorable="d"
+        Title="SpaceWars" Height="700" Width="600" Icon="Icon.ico" FocusManager.FocusedElement="{Binding ElementName=GameArea}">
+    <Grid>
+        <DockPanel>
+            <ToolBar DockPanel.Dock="Top" Name="mTbar" Height="50">
+                <Button Name="Laser" Background="White" Margin="0,0,0,0" FontFamily="Comic Sans MS" Click="Laser_Click">Laser</Button>
+                <Button Name="Rockets" Background="White" Margin="20,0,0,0" FontFamily="Comic Sans MS" Click="Rockets_Click">Rockets</Button>
+                <Button Name="startBtn" Background="White" FontFamily="Comic Sans MS" Margin="50,0,0,0" Click="startBtn_Click">New Game</Button>
+                <Label Content="Weapon:" FontFamily="Comic Sans MS" Margin="50, 0, 0, 0"/>
+                <Label Name="Weapon" Width="60" Content="Laser" FontFamily="Comic Sans MS"/>
+                <Label Content="Score:"  FontFamily="Comic Sans MS" Margin="50, 0, 0, 0"/>
+                <Label Name="Score" FontFamily="Comic Sans MS" Margin="0, 0, 0, 0"/>
+            </ToolBar>
+            <Canvas Name="GameArea" Focusable="True" KeyDown="GameArea_KeyDown"  KeyUp="GameArea_KeyUp">
+            </Canvas>
+        </DockPanel>
+    </Grid>
+</Window>

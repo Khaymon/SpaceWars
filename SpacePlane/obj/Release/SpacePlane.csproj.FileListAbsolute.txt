@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\PrintEditor\SpacePlane\bin\Release\SpacePlane.exe.config
+C:\Users\user\Desktop\PrintEditor\SpacePlane\bin\Release\SpacePlane.exe
+C:\Users\user\Desktop\PrintEditor\SpacePlane\bin\Release\SpacePlane.pdb
+C:\Users\user\Desktop\PrintEditor\SpacePlane\obj\Release\MainWindow.g.cs
+C:\Users\user\Desktop\PrintEditor\SpacePlane\obj\Release\App.g.cs
+C:\Users\user\Desktop\PrintEditor\SpacePlane\obj\Release\SpacePlane_MarkupCompile.cache
+C:\Users\user\Desktop\PrintEditor\SpacePlane\obj\Release\SpacePlane_MarkupCompile.lref
+C:\Users\user\Desktop\PrintEditor\SpacePlane\obj\Release\MainWindow.baml
+C:\Users\user\Desktop\PrintEditor\SpacePlane\obj\Release\SpacePlane.g.resources
+C:\Users\user\Desktop\PrintEditor\SpacePlane\obj\Release\SpacePlane.Properties.Resources.resources
+C:\Users\user\Desktop\PrintEditor\SpacePlane\obj\Release\SpacePlane.csproj.GenerateResource.cache
+C:\Users\user\Desktop\PrintEditor\SpacePlane\obj\Release\SpacePlane.exe
+C:\Users\user\Desktop\PrintEditor\SpacePlane\obj\Release\SpacePlane.pdb
+C:\Users\user\Desktop\PrintEditor\SpacePlane\obj\Release\SpacePlane.csprojAssemblyReference.cache
